@@ -1,2 +1,4 @@
 # Countdown (Using Phyton turtle)
-This is a small mod made by me just for fun
+## Made by xXNicoXx
+This mod was mode just for fun by me it's a **very simple timmer** using python turtle
+![Timer](spoiler.PNG)
